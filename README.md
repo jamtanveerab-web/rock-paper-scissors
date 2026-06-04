@@ -41,3 +41,29 @@ A classic Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play ag
 3. Start playing!
 
 ## 📁 Project Structure
+rock-paper-scissors/
+├── index.html
+├── style.css
+└── script.js
+
+## 🔮 Future Improvements
+
+- Add animations on win/loss
+- Add sound effects
+- Add "Best of 3/5" modes
+- Save high score with local storage
+
+## 👨‍💻 Author
+
+**Your Name** – Frontend Developer
+
+## 🔗 Connect with Me
+
+[LinkedIn] (www.linkedin.com/in/
+tanveer-ahmad-472555398
+)
+[GitHub] (https://github.com/jamtanveerab-web)
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
